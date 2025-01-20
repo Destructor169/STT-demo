@@ -3,3 +3,9 @@ if(Number >= 6):
 print("You like Oranges")
 else:
 print("You don't like Oranges")
+
+Number = int(input("Enter a number to rate Bananas")
+if(Number >= 7):
+	print("You like Bananas")
+else:
+	print("You don't like Bananas")
