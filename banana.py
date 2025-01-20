@@ -1,2 +1,3 @@
 print("I like to eat Banana")
-print("I also like 🍌 and 🍌")
+print("Thanks")
+print("I like other fruits as well")
